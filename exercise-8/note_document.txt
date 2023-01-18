@@ -1,0 +1,2 @@
+sinem alkan 	 math 	 10 	 20 	 30 	 24.00
+necla alkan 	 math 	 40 	 50 	 60 	 54.00

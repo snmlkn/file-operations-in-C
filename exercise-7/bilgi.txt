@@ -1,0 +1,6 @@
+sinem
+alkan
+abc
+def
+sinem alkan;sin;alkan
+abcd

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673272639 source:c:\users\ralkan\documents\c-exercises\dosya islemleri\exercise-11\main.c
+	<stdio.h>
+	<stdlib.h>
+
